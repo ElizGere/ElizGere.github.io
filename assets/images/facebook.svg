@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="OBJECTS" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98.23 98.23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #524445;
+      }
+
+      .cls-2 {
+        fill: #f5f5f5;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" width="98.23" height="98.23" rx="3.94" ry="3.94"/>
+  <path class="cls-1" d="M55.68,31.48v-7.05c0-3.44,2.29-4.24,3.9-4.24h9.89V5.07l-13.63-.06c-15.13,0-18.56,11.27-18.56,18.49v7.97h-8.75v17.64h8.82v44.1h17.64V49.11h13.09l.63-6.93,.97-10.71h-14.02Z"/>
+</svg>
