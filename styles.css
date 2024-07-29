@@ -112,9 +112,6 @@ li {
   align-items: center;
 }
 
-.text-container:hover {
-  transform: scale(1.1);
-}
 .text {
   font-size: 1rem;
   text-align: center;
@@ -132,10 +129,6 @@ li {
   width: 15rem;
 	height: 15rem;
 	margin: 0;
-}
-
-.letter-board:hover {
-  transform: scale(1.1);
 }
 
 .box {
@@ -183,6 +176,9 @@ li {
     margin-right: 1.5rem;
   }
 
+  .text-container:hover {
+    transform: scale(1.1);
+  }
 
   .text {
     text-align: end;
@@ -196,6 +192,10 @@ li {
     width: 0;
     height: 15rem;
     margin: 0;
+  }
+
+  .letter-board:hover {
+    transform: scale(1.1);
   }
 }
 
@@ -257,11 +257,6 @@ li {
 .project-title-container {
   flex-direction: row;
   justify-content: space-between;
-}
-
-.project-title-container:hover {
-  cursor: pointer;
-  transform: scale(1.1);
 }
 
 .project-title {
@@ -351,6 +346,11 @@ li {
     border-left: 1.5px solid rgb(245,245,245);
     padding-left: 25px;
   }
+
+  .project-title-container:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+  }
 }
 
 
@@ -415,10 +415,6 @@ li {
   width: 30px;
 }
 
-.icon:hover {
-  transform: scale(1.2);
-}
-
 .arrow {
   width: 20px;
 }
@@ -479,6 +475,10 @@ li {
   .aboutpage-navbar {
     justify-content: center;
     gap: 50px;
+  }
+
+  .icon:hover {
+    transform: scale(1.2);
   }
 }
 
